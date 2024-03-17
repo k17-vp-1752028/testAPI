@@ -1,0 +1,5 @@
+com\example\demo\DemoApplication.class
+com\example\demo\HomeController.class
+com\example\demo\PersonalInfoRepository.class
+com\example\demo\PersonalInfo.class
+com\example\demo\PersonalInfoController.class
